@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "Nombre": "PlayStation 4",
+        "Precio": "400"
+    },
+    {
+        "id": "2",
+        "Nombre": "PlayStation 3",
+        "Precio": "250"
+    }
+]
