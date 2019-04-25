@@ -1,10 +1,11 @@
-/*
+
 const mysql = require('mysql');
 
 const mysqlConnection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: 'root',
+    password: '',
+    port: 3307,
     database: 'eshop'
 });
 
@@ -18,4 +19,3 @@ mysqlConnection.connect(function (err) {
 });
 
 module.exports = mysqlConnection; 
-*/

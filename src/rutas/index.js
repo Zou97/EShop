@@ -1,6 +1,6 @@
 const { Router } = require('express');
 const router = Router();
-/*
+
 const mysqlConnection = require('../basededatos');
 
 router.get('/db', (req, res) => {
@@ -12,7 +12,7 @@ router.get('/db', (req, res) => {
         }
     });
 });
-*/
+
 router.get('/test', (req, res) => {
     const data = {
         "name": "Manuel",
